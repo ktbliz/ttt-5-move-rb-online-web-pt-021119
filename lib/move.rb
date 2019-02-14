@@ -21,3 +21,5 @@ def move(board_array, index, character = "X")
   board_array
 
 end 
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
